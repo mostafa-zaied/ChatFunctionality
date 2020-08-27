@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648722971755",
+    "firebase_url": "https://chatingappfunbits.firebaseio.com",
+    "project_id": "chatingappfunbits",
+    "storage_bucket": "chatingappfunbits.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648722971755:android:0cefa7774aff40db9dc52e",
+        "android_client_info": {
+          "package_name": "com.chatappfunbits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648722971755-82m60lc3kgmd7jb8rfcvbjfk4fe5mcam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4bbjxxIIp5vbRsZKbNozr0QQISSVUhAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648722971755-82m60lc3kgmd7jb8rfcvbjfk4fe5mcam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
